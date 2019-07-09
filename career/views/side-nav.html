@@ -1,0 +1,12 @@
+<div ng-controller="navController">
+	<div class="side-nav">
+		<ul>
+			<li class="nav-cat-txt">General</li>
+			<li class="side-nav-items"><a ng-class="{active: isActive('/candidate-dashboard')}" href="candidate-dashboard" class="transition"><i class="fa fa-tachometer" aria-hidden="true"></i> Dashboard</a></li>
+			<li class="side-nav-items"><a ng-class="{active: isActive('/jobs-applied')}" href="jobs-applied" class="transition"><i class="fa fa-file-text-o" aria-hidden="true"></i> Applied Jobs</a></li>
+			<li role="separator" class="divider"></li>
+			<li class="nav-cat-txt">Forms</li>
+			<li class="side-nav-items"><a ng-class="{active: isActive('/apply-for-job')}" href="apply-for-job" class="transition"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Apply for Job</a></li>
+		</ul>
+	</div>
+</div>

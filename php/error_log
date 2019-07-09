@@ -1,0 +1,706 @@
+[04-Feb-2019 14:24:34 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 14:26:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 14:27:52 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 14:28:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 14:30:58 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 14:34:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 14:35:52 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 15:03:55 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 15:35:39 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 15:43:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 15:46:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[04-Feb-2019 15:46:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 03:25:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 03:28:08 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 07:03:55 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 07:21:21 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 07:22:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 07:22:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 07:43:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 09:15:56 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 09:15:57 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 09:35:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 10:14:29 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 10:26:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 10:40:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 10:40:51 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 10:43:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:05:21 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:12:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:14:22 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:14:27 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:14:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:15:28 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:15:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:25:32 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:25:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:26:29 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:27:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:27:58 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:36:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:36:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 11:37:15 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 12:06:49 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 12:27:56 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 12:32:50 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 13:44:25 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 14:04:50 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 14:18:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 14:20:08 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 14:20:15 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 14:44:04 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[05-Feb-2019 17:47:08 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 06:03:25 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 06:03:39 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 06:03:39 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 10:08:47 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 13:47:59 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 14:08:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 14:16:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 16:00:42 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[06-Feb-2019 17:58:27 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 04:31:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 04:31:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 04:33:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 04:33:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 07:40:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 08:30:43 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 08:47:19 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 09:11:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 11:44:47 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[07-Feb-2019 23:29:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 06:26:48 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 09:03:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 09:18:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 09:23:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 13:46:24 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 13:47:07 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 13:47:32 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 15:04:32 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 15:04:32 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 15:40:49 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 17:01:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 17:01:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[08-Feb-2019 17:01:28 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Feb-2019 04:22:48 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Feb-2019 10:50:24 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Feb-2019 13:54:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Feb-2019 13:54:52 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Feb-2019 23:17:58 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Feb-2019 11:53:35 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Feb-2019 12:48:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Feb-2019 12:59:24 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Feb-2019 13:22:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Feb-2019 13:30:28 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Feb-2019 14:31:25 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Feb-2019 14:46:04 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 02:00:31 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 02:23:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 05:52:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:01:50 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:01:59 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:02:25 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:11:49 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:12:04 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:12:07 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:12:07 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:12:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:12:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:12:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:21:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:21:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:21:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:53:33 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 06:53:33 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 07:05:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 07:05:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 07:08:31 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 07:37:59 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 07:38:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 07:38:30 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 08:55:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 11:14:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 13:35:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 13:35:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 13:35:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 13:35:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 13:35:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 13:35:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[11-Feb-2019 13:35:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[15-Feb-2019 06:42:03 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[15-Feb-2019 06:42:08 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:20 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:35 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:46:45 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:05 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:19 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:30 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:47:40 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:03 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:26 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:37 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:45 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:48:59 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 13:49:39 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:16 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:26 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:02:44 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:21 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:04:53 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:35 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:37 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:41 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:05:53 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:30 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:06:46 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:19 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:07:56 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:09:40 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:27 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:36 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:12:54 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Notice:  Undefined variable: hostname in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Notice:  Undefined variable: username in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Notice:  Undefined variable: password in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Notice:  Undefined variable: database in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[19-Feb-2019 14:13:20 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 1
+[01-Mar-2019 10:04:38 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[04-Mar-2019 09:23:18 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[05-Mar-2019 10:50:00 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[05-Mar-2019 14:03:12 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[05-Mar-2019 14:10:53 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[05-Mar-2019 19:07:58 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[07-Mar-2019 23:37:11 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[07-Mar-2019 23:40:44 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[07-Mar-2019 23:40:48 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[07-Mar-2019 23:40:52 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[12-Mar-2019 12:20:18 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[12-Mar-2019 15:00:48 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[12-Mar-2019 18:17:09 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[13-Mar-2019 13:15:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[14-Mar-2019 04:11:58 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[14-Mar-2019 06:49:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[14-Mar-2019 14:54:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[15-Mar-2019 12:39:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[18-Mar-2019 05:35:53 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[19-Mar-2019 09:55:04 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[26-Mar-2019 11:40:47 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[26-Mar-2019 15:19:15 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[26-Mar-2019 15:19:16 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[26-Mar-2019 15:19:18 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[26-Mar-2019 15:19:19 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[26-Mar-2019 21:11:33 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[26-Mar-2019 21:11:34 Etc/GMT] PHP Notice:  Undefined index: email in /home/proelearning/public_html/php/free-demos-email.php on line 4
+[26-Mar-2019 21:11:34 Etc/GMT] PHP Notice:  Undefined index: name in /home/proelearning/public_html/php/free-demos-email.php on line 5
+[26-Mar-2019 21:11:35 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[26-Mar-2019 21:11:37 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[26-Mar-2019 21:11:40 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[27-Mar-2019 08:08:49 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[28-Mar-2019 17:16:25 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[28-Mar-2019 17:17:12 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[28-Mar-2019 17:17:14 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[28-Mar-2019 17:17:16 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[28-Mar-2019 17:17:19 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-Mar-2019 10:50:48 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:48 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:49 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:52 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:52 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:52 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:54 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:54 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:55 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:55 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:57 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:50:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:51:00 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:51:00 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:51:01 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:51:01 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:51:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:51:03 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[29-Mar-2019 10:51:03 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[01-Apr-2019 14:03:12 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[02-Apr-2019 10:41:26 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[02-Apr-2019 10:46:11 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[09-Apr-2019 12:30:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 12:30:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:30:15 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:30:15 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:30:15 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:30:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:30:15 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:30:15 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:30:15 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:30:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 12:30:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:30:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:30:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:30:53 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:32:02 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 12:40:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:41:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 12:50:44 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 12:51:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 12:51:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 12:51:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 12:51:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:51:13 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:51:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:51:13 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 12:51:59 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:00:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:00:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:00:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:00:27 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:00:27 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:00:27 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:00:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:00:27 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:00:27 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:00:27 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:00:49 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:01:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:01:20 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:01:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:01:20 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:02:01 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 13:02:09 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:02:09 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:02:09 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:02:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:02:09 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:09:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:09:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:09:37 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:09:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:09:37 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:11:00 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:11:01 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:11:15 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:11:15 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:11:15 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:11:15 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:11:15 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:11:17 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:12:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[09-Apr-2019 13:12:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[09-Apr-2019 13:12:14 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[09-Apr-2019 13:12:14 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[09-Apr-2019 13:12:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[09-Apr-2019 13:12:14 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[09-Apr-2019 13:12:14 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[10-Apr-2019 10:47:11 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[10-Apr-2019 10:47:14 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[10-Apr-2019 10:47:14 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[10-Apr-2019 10:47:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[10-Apr-2019 10:47:14 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[11-Apr-2019 09:02:18 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[13-Apr-2019 12:25:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[16-Apr-2019 17:05:41 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[18-Apr-2019 12:04:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[19-Apr-2019 04:35:22 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[20-Apr-2019 14:24:50 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[23-Apr-2019 17:21:56 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[24-Apr-2019 17:33:38 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[24-Apr-2019 18:05:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[26-Apr-2019 07:42:04 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[26-Apr-2019 12:00:40 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[03-May-2019 14:45:32 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[03-May-2019 16:06:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[05-May-2019 04:22:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[06-May-2019 20:46:08 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[06-May-2019 20:47:15 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[06-May-2019 20:47:17 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[06-May-2019 20:47:20 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[06-May-2019 20:47:21 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[08-May-2019 17:39:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[08-May-2019 17:54:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[08-May-2019 17:54:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[08-May-2019 17:54:06 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[10-May-2019 20:23:17 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[13-May-2019 12:34:29 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/course-suggestion.php on line 56
+[13-May-2019 16:52:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[17-May-2019 13:53:11 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[23-May-2019 08:39:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[23-May-2019 08:39:57 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[23-May-2019 08:39:58 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[23-May-2019 08:39:58 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[23-May-2019 08:39:56 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[23-May-2019 08:40:45 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[23-May-2019 08:40:45 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[23-May-2019 08:40:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[23-May-2019 08:40:45 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[23-May-2019 08:41:05 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[29-May-2019 09:49:41 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:49:43 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:49:47 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:49:51 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:49:52 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:49:53 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:17 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:17 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:18 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:19 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:19 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:19 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:19 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 09:50:20 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[29-May-2019 15:47:30 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[30-May-2019 13:05:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[02-Jun-2019 13:17:19 Etc/GMT] PHP Notice:  Undefined property: stdClass::$gender in /home/proelearning/public_html/php/student_reg.php on line 14
+[07-Jun-2019 05:40:00 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[07-Jun-2019 05:40:03 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[07-Jun-2019 05:40:03 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[07-Jun-2019 05:40:05 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[07-Jun-2019 05:40:06 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[07-Jun-2019 05:40:07 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[15-Jun-2019 21:55:28 Etc/GMT] PHP Notice:  Undefined variable: course_name in /home/proelearning/public_html/php/free-demo.php on line 56
+[20-Jun-2019 14:10:54 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[20-Jun-2019 14:10:54 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[21-Jun-2019 05:59:44 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[21-Jun-2019 06:00:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[21-Jun-2019 06:00:20 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[21-Jun-2019 06:00:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[21-Jun-2019 06:00:22 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[21-Jun-2019 06:00:25 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[24-Jun-2019 11:31:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[24-Jun-2019 11:31:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[24-Jun-2019 11:31:50 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[24-Jun-2019 11:31:50 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[24-Jun-2019 11:31:50 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[24-Jun-2019 12:01:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[24-Jun-2019 12:01:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[24-Jun-2019 12:01:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[24-Jun-2019 12:02:48 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[24-Jun-2019 12:02:48 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[24-Jun-2019 12:02:48 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[24-Jun-2019 12:02:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[24-Jun-2019 12:02:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[24-Jun-2019 12:02:49 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[24-Jun-2019 12:02:49 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[24-Jun-2019 12:02:49 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[24-Jun-2019 12:02:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[24-Jun-2019 12:02:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[24-Jun-2019 12:04:35 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits.php on line 5
+[24-Jun-2019 12:08:28 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[24-Jun-2019 12:08:28 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[24-Jun-2019 12:08:28 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[24-Jun-2019 12:08:28 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[24-Jun-2019 12:08:28 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[24-Jun-2019 12:15:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[25-Jun-2019 05:42:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/proelearning/public_html/php/free-demos-fetch.php on line 5
+[25-Jun-2019 05:42:01 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 6
+[25-Jun-2019 05:42:01 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/php/free-demos-fetch.php on line 9
+[25-Jun-2019 05:42:01 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/php/free-demos-fetch.php on line 13
+[25-Jun-2019 05:42:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5
+[02-Jul-2019 13:59:38 Etc/GMT] PHP Notice:  Undefined property: stdClass::$email in /home/proelearning/public_html/php/email-existence-check.php on line 11
+[03-Jul-2019 13:14:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/proelearning/public_html/php/page_visits_fetch.php on line 5

@@ -1,0 +1,53 @@
+<div class="container-fluid" ng-controller="careersController">
+    <div class="row">
+        <img class="img-responsive" src="./images/parallax-images/careers.jpg" alt="Careers-Training-Pro-eLearning">
+    </div>
+    
+    <div class="container">
+        <!-- Breadcrumbs -->
+        <div class="row hidden-xs">
+            <div ng-include="'views/breadcrumbs.html'"></div>
+        </div>
+        
+        <div class="row">
+            <div class="course-overview-title">
+                <h1 class="mt-50 text-center">Join Our Team</h1>
+            </div>
+            <hr>
+        </div>
+        
+        <div class="row">
+            <!-- Left Side Pane -->
+            <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+                <div class="job-post-o-w" ng-repeat="job in jobPostings">
+                    <div class="job-post-w transition">
+                        <div class="job-c-icon">
+                            <img src="./images/logos/favicon-96x96.png" alt="{{ job.position }} - Pro-elearning">
+                        </div>
+                        <div class="job-content-w">
+                            <h4>{{ job.position }}</h4>
+                            <span class="c-name">Pro-elearning</span>
+                            <!-- <p><b>Job ID:</b> {{ job.job_id }}</p> -->
+                            <p><b>Job ID:</b> PEL{{ job.sno }}</p>
+                            <p class="posting-date"><b>Posted on:</b> {{ job.posting_date | date:'dd MMM yyyy' }}</p>
+                            <p><b>Exp:</b> {{ job.min_experience }} - {{ job.max_experience }} yr(s)</p>
+                            <div class="careers-btn-wrap">
+                                <a href=""></a>
+                                <a class="btn btn-primary transition" href="./job-postings/{{ job.file }}" title="{{ job.file }}" target="_blank">View Details</a>
+                                <a class="btn btn-info transition" href="./career/apply-for-job" target="_blank" role="button">Apply Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Side Pane -->
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                <div class="job-post-o-w">
+                    <img class="img-responsive" src="./images/content-images/careers-img.png">
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,112 @@
+[04-Feb-2019 15:46:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/course-schedules-fetch.php on line 5
+[04-Feb-2019 15:46:21 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/course-schedules-fetch.php on line 6
+[04-Feb-2019 15:46:21 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/course-schedules-fetch.php on line 9
+[04-Feb-2019 15:46:21 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/course-schedules-fetch.php on line 13
+[05-Feb-2019 06:06:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/admin-login.php on line 14
+[05-Feb-2019 06:06:03 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 16
+[05-Feb-2019 06:06:03 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 17
+[05-Feb-2019 06:06:03 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 21
+[05-Feb-2019 06:06:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 23
+[05-Feb-2019 06:06:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 25
+[05-Feb-2019 06:06:03 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 39
+[05-Feb-2019 06:06:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/admin-login.php on line 14
+[05-Feb-2019 06:06:25 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 16
+[05-Feb-2019 06:06:25 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 17
+[05-Feb-2019 06:06:25 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 21
+[05-Feb-2019 06:06:25 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 23
+[05-Feb-2019 06:06:25 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 25
+[05-Feb-2019 06:06:25 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 39
+[05-Feb-2019 06:07:41 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/admin-login.php on line 14
+[05-Feb-2019 06:07:41 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 16
+[05-Feb-2019 06:07:41 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 17
+[05-Feb-2019 06:07:41 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 21
+[05-Feb-2019 06:07:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 23
+[05-Feb-2019 06:07:41 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 25
+[05-Feb-2019 06:07:41 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 39
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/admin-login.php on line 14
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 16
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 17
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 21
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 23
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 25
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 39
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/admin-login.php on line 14
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 16
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 17
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 21
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 23
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 25
+[05-Feb-2019 06:07:43 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 39
+[05-Feb-2019 07:04:47 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/admin-login.php on line 14
+[05-Feb-2019 07:04:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 16
+[05-Feb-2019 07:04:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 17
+[05-Feb-2019 07:04:47 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 21
+[05-Feb-2019 07:04:47 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 23
+[05-Feb-2019 07:04:47 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 25
+[05-Feb-2019 07:04:47 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 39
+[05-Feb-2019 07:06:40 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proelearning/public_html/admin/php/admin-login.php on line 14
+[05-Feb-2019 07:06:40 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 16
+[05-Feb-2019 07:06:40 Etc/GMT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 17
+[05-Feb-2019 07:06:40 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 21
+[05-Feb-2019 07:06:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 23
+[05-Feb-2019 07:06:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/proelearning/public_html/admin/php/admin-login.php on line 25
+[05-Feb-2019 07:06:40 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/proelearning/public_html/admin/php/admin-login.php on line 39
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: btnName in /home/proelearning/public_html/admin/php/free-demos-list.php on line 10
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/proelearning/public_html/admin/php/free-demos-list.php on line 30
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: course_name in /home/proelearning/public_html/admin/php/free-demos-list.php on line 31
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: date_time in /home/proelearning/public_html/admin/php/free-demos-list.php on line 32
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: btnName in /home/proelearning/public_html/admin/php/free-demos-list.php on line 10
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/proelearning/public_html/admin/php/free-demos-list.php on line 30
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: course_name in /home/proelearning/public_html/admin/php/free-demos-list.php on line 31
+[06-Feb-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined index: date_time in /home/proelearning/public_html/admin/php/free-demos-list.php on line 32
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: btnName in /home/proelearning/public_html/admin/php/free-demos-list.php on line 10
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: id in /home/proelearning/public_html/admin/php/free-demos-list.php on line 30
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: course_name in /home/proelearning/public_html/admin/php/free-demos-list.php on line 31
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: date_time in /home/proelearning/public_html/admin/php/free-demos-list.php on line 32
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: btnName in /home/proelearning/public_html/admin/php/free-demos-list.php on line 10
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: id in /home/proelearning/public_html/admin/php/free-demos-list.php on line 30
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: course_name in /home/proelearning/public_html/admin/php/free-demos-list.php on line 31
+[07-Feb-2019 04:32:42 Etc/GMT] PHP Notice:  Undefined index: date_time in /home/proelearning/public_html/admin/php/free-demos-list.php on line 32
+[08-Feb-2019 14:44:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[08-Feb-2019 14:44:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[08-Feb-2019 14:47:56 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[08-Feb-2019 14:47:56 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[08-Feb-2019 14:48:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-fetch.php on line 9
+[08-Feb-2019 14:48:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-fetch.php on line 9
+[08-Feb-2019 14:48:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[08-Feb-2019 14:48:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[08-Feb-2019 15:00:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[08-Feb-2019 15:00:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[09-Feb-2019 10:45:21 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[09-Feb-2019 10:45:21 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[09-Feb-2019 10:47:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[09-Feb-2019 10:47:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[11-Feb-2019 06:31:51 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[11-Feb-2019 06:31:51 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[11-Feb-2019 06:32:12 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[11-Feb-2019 06:32:12 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/free-demos-request-list.php on line 13
+[19-Feb-2019 10:32:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[19-Feb-2019 10:32:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[11-Mar-2019 15:38:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[11-Mar-2019 15:38:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[31-Mar-2019 23:37:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[31-Mar-2019 23:37:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[08-Apr-2019 18:24:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[08-Apr-2019 18:24:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 11:28:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 11:28:38 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 11:47:32 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 11:47:32 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 11:48:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 11:48:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 13:38:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[14-May-2019 13:38:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[28-May-2019 13:05:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[28-May-2019 13:05:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[28-May-2019 13:05:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[28-May-2019 13:05:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[28-May-2019 13:05:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[28-May-2019 13:43:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[28-May-2019 13:43:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[29-May-2019 06:51:29 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13
+[29-May-2019 06:51:29 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/proelearning/public_html/admin/php/generate-certificate-details-fetch.php on line 13

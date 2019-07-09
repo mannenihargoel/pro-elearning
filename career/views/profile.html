@@ -1,0 +1,106 @@
+<!-- Navigation Menu -->
+<header>
+    <div ng-include="'views/header.html'"></div>
+</header>
+<!-- //Navigation Menu -->
+
+<div class="main-container">
+	<!-- Side Nav -->
+	<div ng-include="'views/side-nav.html'"></div>
+	<!-- //Side Nav -->
+	
+	<!-- Partial Views -->
+	<div class="main-content-wrapper">
+		<div class="main-content">
+			<div ng-controller="profileCtrl">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                		<div class="panel">
+                		    <div class="panel-heading">
+                		        <div class="panel-title">General Information</div>
+                		    </div>
+                		    <div class="panel-body">
+								<div class="content-grid">
+									<div class="table-responsive">
+										<table class="table acc-details-tbl">
+											<tbody>
+												<tr>
+													<td><b>First Name</b></td>
+													<td>{{ data.d.first_name }}</td>
+												</tr>
+												<tr>
+													<td><b>Middle Name</b></td>
+													<td>{{ data.d.middle_name }}</td>
+												</tr>
+												<tr>
+													<td><b>Last Name</b></td>
+													<td>{{ data.d.last_name }}</td>
+												</tr>
+												<tr>
+													<td><b>Email</b></td>
+													<td>{{ data.d.email }}</td>
+												</tr>
+												<tr>
+													<td><b>Gender</b></td>
+													<td>{{ data.d.gender }}</td>
+												</tr>
+												<tr>
+													<td><b>Phone</b></td>
+													<td>{{ data.d.phone }}</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+									<!-- <div class="clearfix"></div> -->
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+						<div class="panel">
+							<div class="panel-heading">
+								<div class="panel-title">Manage Your Profile</div>
+							</div>
+							<div class="panel-body">
+								<div class="content-grid">
+									<p>Set a new password for your current profile <b>{{ data.d.email }}</b></p>
+									<form name="newPassword">
+										<div class="form-group">
+											<input type="password" name="pwd" ng-model="newpassword" ng-minlength="8" ng-maxlength="20" ng-pattern="/^(?=.*[A-Za-z])(?=.*\d)(?=.*[$@$!%*#?&])[A-Za-z\d$@$!%*#?&]{8,}$/" class="form-control" placeholder="New Password" ng-required="true">
+                                        	<span class="validation_styles" ng-show="newPassword.pwd.$error.required && newPassword.pwd.$touched">* Please enter a new password</span>
+                                        	<span class="validation_styles" ng-show="newPassword.pwd.$error.minlength && newPassword.pwd.$touched">* Password should be atleast 8 characters</span>
+                                        	<span class="validation_styles" ng-show="newPassword.pwd.$error.maxlength && newPassword.pwd.$touched">* Password should be maximum of 20 characters</span>
+                                        	<span class="validation_styles" ng-show="newPassword.pwd.$error.pattern && newPassword.pwd.$touched">* Password should contain atleast one alphabet, one number and one special character</span>
+										</div>
+										<div class="form-group">
+											<input type="password" name="cpwd" ng-model="confirmPassword" ng-minlength="8" ng-maxlength="20" ng-pattern="/^(?=.*[A-Za-z])(?=.*\d)(?=.*[$@$!%*#?&])[A-Za-z\d$@$!%*#?&]{8,}$/" class="form-control" placeholder="Confirm Password" ng-required="true">
+                                        	<span class="validation_styles" ng-show="newPassword.cpwd.$error.required && newPassword.cpwd.$touched">* Passwords do not match</span>
+										</div>
+										<button class="btn btn-primary transition" ng-click="newPass()" ng-disabled="newPassword.$invalid">Update</button>
+									</form>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="alert alert-success alert-dismissible" role="alert" ng-if="successMessage">
+					<i class="fa fa-check" aria-hidden="true"></i> <span ng-bind="successMessage"></span>
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				</div>
+				<div class="alert alert-danger alert-dismissible" role="alert" ng-if="errorMessage">
+					<i class="fa fa-exclamation" aria-hidden="true"></i> <span ng-bind="errorMessage"></span>
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //Partial Views -->
+	
+	<!-- Footer -->
+	<footer>
+		<div ng-include="'views/footer.html'"></div>
+	</footer>
+	<!-- //Footer -->
+</div>
